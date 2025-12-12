@@ -1,7 +1,7 @@
 {
-    "token": "",
+    "token": "MTQ0OTE4MjYzNTY1NzEzNDIzMA.GIpW3R.HE8qqWwVYkFn982G21JFDTZapwYjjl_WB2mI2c",
     "language": "en",
-    "prefix": "!",
+    "prefix": "/",
     "mongodbUri": "",
     "excessCommands": {
         "other": true,
